@@ -14,6 +14,12 @@ function App() {
           </div>
         </div>
       </div>
+      <div>
+        <a href="https://github.com/MeganPaulLynch/weather-react-app">
+          Open source code
+        </a>{" "}
+        by Megan Paul Lynch
+      </div>
     </div>
   );
 }
