@@ -1,27 +1,19 @@
 import React from "react";
-import Form from "./Form";
-import City from "./City";
+import Weather from "./Weather";
 import "./App.css";
+// Put any other imports below so that CSS from your
+// components takes precedence over default styles.
 
-function App() {
+export default function App() {
   return (
-    <div className="container">
-      <div className="box">
-        <div className="card">
-          <div className="card-body">
-            <Form />
-            <City name="London" />
-          </div>
-        </div>
-      </div>
-      <div>
+    <div className="container App">
+      <Weather defaultCity="London" />
+      <footer>
         <a href="https://github.com/MeganPaulLynch/weather-react-app">
           Open source code
         </a>{" "}
         by Megan Paul Lynch
-      </div>
+      </footer>
     </div>
   );
 }
-
-export default App;
