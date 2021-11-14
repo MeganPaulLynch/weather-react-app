@@ -38,7 +38,7 @@ a {
   border-top: 2px solid black;
   padding-top: 10px;
   margin-left: 6px;
-  font-size: 14px;
+  font-size: 16px;
   color: #253761;
 }
 .col-7 {
@@ -85,7 +85,7 @@ a {
 .main-weather {
   text-align: center;
 }
-.main-weather img {
-  height: 130px;
+.main-weather canvas {
   padding: 0;
+  display: inline-block;
 }
