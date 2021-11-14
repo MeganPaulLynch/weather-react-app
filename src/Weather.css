@@ -38,8 +38,8 @@ a {
   border-top: 2px solid black;
   padding-top: 10px;
   margin-left: 6px;
-  font-size: 16px;
-  color: #253761;
+  font-size: 14px;
+  color: #5a6275;
 }
 .col-7 {
   margin-top: 20px;
@@ -87,5 +87,4 @@ a {
 }
 .main-weather canvas {
   padding: 0;
-  display: inline-block;
 }
