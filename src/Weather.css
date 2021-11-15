@@ -64,24 +64,6 @@ a {
   margin: 0;
   text-align: center;
 }
-.forecast-icon {
-  width: 50px;
-  display: block;
-  margin: 0 auto;
-}
-.forecast-temperature {
-  font-size: 12px;
-}
-.forecast-day {
-  font-size: 15px;
-}
-.temperature-min-forecast {
-  color: #878787;
-}
-.weather-forecast {
-  margin-top: 10px;
-  margin-bottom: 12px;
-}
 .main-weather {
   text-align: center;
 }

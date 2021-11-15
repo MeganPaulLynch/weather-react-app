@@ -1,0 +1,9 @@
+.Weather-forecast {
+  text-align: center;
+}
+.weather-forecast-day {
+  font-size: 18px;
+}
+.weather-forecast-day-min {
+  opacity: 0.6;
+}
