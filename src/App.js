@@ -9,7 +9,11 @@ export default function App() {
     <div className="container App">
       <Weather defaultCity="London" />
       <footer>
-        <a href="https://github.com/MeganPaulLynch/weather-react-app">
+        <a
+          href="https://github.com/MeganPaulLynch/weather-react-app"
+          target="_blank"
+          rel="noreferrer"
+        >
           Open source code
         </a>{" "}
         by Megan Paul Lynch
